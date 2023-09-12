@@ -1,4 +1,4 @@
-declare module '@eliancodes/brutal-ui' {
+declare module '@massvdev/brutal-ui' {
   type ButtonProps = {
     href: string;
     target?: '_blank' | '_self';
