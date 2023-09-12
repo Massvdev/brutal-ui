@@ -1,10 +1,10 @@
 {
-  "name": "@Massdev/brutal-ui",
+  "name": "@massvdev/brutal-ui",
   "version": "0.2.2",
   "description": "The brutalist UI components package, built for extendability and compatibility",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Massdev/brutal-ui.git"
+    "url": "git+https://github.com/massvdev/brutal-ui.git"
   },
   "type": "module",
   "main": "index.ts",
@@ -33,9 +33,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Massdev/brutal-ui/issues"
+    "url": "https://github.com/massvdev/brutal-ui/issues"
   },
-  "homepage": "https://github.com/Massdev/brutal-ui#readme",
+  "homepage": "https://github.com/massvdev/brutal-ui#readme",
   "devDependencies": {
     "astro": "^2.6.1"
   }
